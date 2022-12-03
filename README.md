@@ -8,6 +8,10 @@
 7. [Câu 15](https://codepen.io/NguyenVanTruong1/pen/mdKBqjm)
 8. [Câu 16](https://codepen.io/NguyenVanTruong1/pen/OJEvoEp)
 9. [Câu 17](https://codepen.io/NguyenVanTruong1/pen/qBKoJeX)
+10.[Câu 18](https://codepen.io/NguyenVanTruong1/pen/yLEQeJW)
+11.[Câu 19](https://codepen.io/NguyenVanTruong1/pen/OJEaMNZ)
+12.[Câu 20](https://codepen.io/NguyenVanTruong1/pen/gOKQPMv)
+13.[Câu 21](https://codepen.io/NguyenVanTruong1/pen/wvXQMWx)
 ## Thực hành
 1. [Bài thực hành pros và state]()
 2. [Bài thực hành số ]()

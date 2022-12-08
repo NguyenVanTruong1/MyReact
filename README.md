@@ -14,5 +14,5 @@
 13.[Câu 20](https://codepen.io/NguyenVanTruong1/pen/gOKQPMv)
 14.[Câu 21](https://codepen.io/NguyenVanTruong1/pen/wvXQMWx)
 ## Thực hành
-1. [Bài thực hành pros và state]()
+1. [Bài thực hành pros và state](https://codepen.io/NguyenVanTruong1/pen/xxzBGPR)
 2. [Bài thực hành số ]()

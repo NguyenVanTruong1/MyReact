@@ -14,5 +14,8 @@
 13.[Câu 20](https://codepen.io/NguyenVanTruong1/pen/gOKQPMv)
 14.[Câu 21](https://codepen.io/NguyenVanTruong1/pen/wvXQMWx)
 ## Thực hành
-1. [Bài thực hành pros và state](https://codepen.io/NguyenVanTruong1/pen/xxzBGPR)
-2. [Bài thực hành số ]()
+1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/baitap-forked-iz2krh?file=/src/index.js)
+2. [Bài thực hành pros và state](https://codepen.io/NguyenVanTruong1/pen/xxzBGPR)
+3. [Bài thực hành số 1](https://codesandbox.io/s/btth2-bxhiud)
+4. [Bài thực hành số 2]()
+5. [Bài thực hành số 3](https://codesandbox.io/s/baikt3-forked-zmd0n6)

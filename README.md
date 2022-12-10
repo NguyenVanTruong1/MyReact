@@ -18,4 +18,6 @@
 2. [Bài thực hành pros và state](https://codepen.io/NguyenVanTruong1/pen/xxzBGPR)
 3. [Bài thực hành số 1](https://codesandbox.io/s/btth2-bxhiud)
 4. [Bài thực hành số 2]()
-5. [Bài thực hành số 3](https://codesandbox.io/s/baikt3-forked-zmd0n6)
+5. [Bài thực hành số 3]()
+6. [Dự án hoàn chỉnh](https://codesandbox.io/s/baikt3-forked-zmd0n6)
+
